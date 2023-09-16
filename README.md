@@ -40,4 +40,4 @@ You can now explore and interact with the Chitikka Cakes website. Enjoy browsing
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Happy Cake Hunting! 🍰
+Happy Cake Hunting! 🍰🎂

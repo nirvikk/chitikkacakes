@@ -9,7 +9,7 @@ To get started with the Chitikka Cakes project, follow these simple steps:
 1. **Clone the Project**: First, clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/yourusername/chitikka-node-service.git
+   git clone https://github.com/nirvikk/chitikkacakes.git
    ```
 
 2. **Navigate to the Project Directory**: Change your current directory to the `chitikka-node-service` directory:

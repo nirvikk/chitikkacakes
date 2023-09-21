@@ -32,6 +32,17 @@ To get started with the Chitikka Cakes project, follow these simple steps:
 
 5. **Browse the Application**: Open your web browser and navigate to [http://localhost:8080](http://localhost:8080) to access the Chitikka Cakes application.
 
+# Alternatively
+
+## Build the Image using Dockerfile
+
+1. Navigate to your project directory where the Dockerfile is located.
+
+2. Run the following command to build the Docker image. Replace `chitikka-node-app` with your desired image name.
+
+   ```bash
+   $ docker build -t chitikka-node-app .
+
 ## Usage
 
 You can now explore and interact with the Chitikka Cakes website. Enjoy browsing through a mouthwatering collection of cakes and desserts.

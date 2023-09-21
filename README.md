@@ -49,7 +49,7 @@ To get started with the Chitikka Cakes project, follow these simple steps:
 
    ```bash
    $ docker run --name chitikka-api -d -p 8000:8000 chitikka-node-app
-   
+   ```
    Where `chitikka-api` is the container name and `chitikka-node-app` is the docker image
 
 4. You can verify that the container is running by checking the list of running containers:
@@ -59,8 +59,9 @@ To get started with the Chitikka Cakes project, follow these simple steps:
 
 5. Stop/Start the Instance
    ```bash
-   $ docker stop chitikka-api
-   $ docker start chitikka-api
+   $ docker stop chitikka-api```
+   ```bash
+   $ docker start chitikka-api```
 
 
 You can now explore and interact with the Chitikka Cakes website. Enjoy browsing through a mouthwatering collection of cakes and desserts.

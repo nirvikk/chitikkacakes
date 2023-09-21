@@ -59,11 +59,11 @@ To get started with the Chitikka Cakes project, follow these simple steps:
 
 5. Stop/Start the Instance
    ```bash
-   $ docker stop chitikka-api
+   docker stop chitikka-api
    ```
    
    ```bash
-   $ docker start chitikka-api
+   docker start chitikka-api
    ```
 
 That's it! You've successfully built and run your Chitikka Node App using Docker, and you can access it [here](http://localhost:8000)

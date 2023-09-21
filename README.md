@@ -66,6 +66,7 @@ To get started with the Chitikka Cakes project, follow these simple steps:
    $ docker start chitikka-api
    ```
 
+That's it! You've successfully built and run your Chitikka Node App using Docker, and you can access it [here](http://localhost:8000)
 
 You can now explore and interact with the Chitikka Cakes website. Enjoy browsing through a mouthwatering collection of cakes and desserts.
 

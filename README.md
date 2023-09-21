@@ -60,6 +60,7 @@ To get started with the Chitikka Cakes project, follow these simple steps:
 5. Stop/Start the Instance
    ```bash
    $ docker stop chitikka-api```
+   
    ```bash
    $ docker start chitikka-api```
 

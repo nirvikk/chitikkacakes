@@ -5,7 +5,7 @@ FROM node:14
 WORKDIR /chitikka-node-service
 
 # Copy package.json and package-lock.json to the working directory
-#COPY package*.json ./
+COPY /chitikka-node-service/package*.json ./
 
 # Install app dependencies
 RUN npm install

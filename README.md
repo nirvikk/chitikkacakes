@@ -39,7 +39,7 @@ To get started with the Chitikka Cakes project, follow these simple steps:
 1. Navigate to your project directory where the Dockerfile is located.
 
    ```bash
-   $ cd chitikka-node-service
+   cd chitikka-node-service
 
 2. Run the following command to build the Docker image. Replace `chitikka-node-app` with your desired image name.
 

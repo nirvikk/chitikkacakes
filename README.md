@@ -45,10 +45,10 @@ To get started with the Chitikka Cakes project, follow these simple steps:
 
    ```bash
    docker build -t chitikka-node-app .
-3. Now that we've created the Docker image, let's run our image on port `8000` 
+3. Now that we've created the Docker image, let's run our image on port `8080` 
 
    ```bash
-   docker run --name chitikka-api -d -p 8000:8000 chitikka-node-app
+   docker run --name chitikka-api -d -p 8080:8080 chitikka-node-app
    ```
    Where `chitikka-api` is the container name and `chitikka-node-app` is the docker image
 
@@ -66,7 +66,7 @@ To get started with the Chitikka Cakes project, follow these simple steps:
    docker start chitikka-api
    ```
 
-That's it! You've successfully built and run your Chitikka Node App using Docker, and you can access it [here](http://localhost:8000)
+That's it! You've successfully built and run your Chitikka Node App using Docker, and you can access it [here](http://localhost:8080)
 
 You can now explore and interact with the Chitikka Cakes website. Enjoy browsing through a mouthwatering collection of cakes and desserts.
 

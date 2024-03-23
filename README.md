@@ -65,7 +65,30 @@ To get started with the Chitikka Cakes project, follow these simple steps:
    ```bash
    docker start chitikka-api
    ```
+## Or by using Docker Compose
 
+1. Navigate to your project directory where the Dockerfile is located.
+
+   ```bash
+   cd chitikka-node-service
+   ```
+2. Use the provided `docker-compose.yml` file to build and run the service:
+
+   ```bash
+   docker-compose up -d
+   ```  
+   ### OR
+   ```bash
+   docker compose up -d
+   ```
+3. Stopping the service
+   ```bash
+   docker-compose down
+   ```
+   ### OR
+   ```bash
+   docker compose down
+   ```
 That's it! You've successfully built and run your Chitikka Node App using Docker, and you can access it [here](http://localhost:8080)
 
 You can now explore and interact with the Chitikka Cakes website. Enjoy browsing through a mouthwatering collection of cakes and desserts.
